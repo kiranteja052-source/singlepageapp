@@ -1,3 +1,3 @@
 # singlepageapp
 MyInfo
-this is my personal inforamtrion is provided in this file
+this is my personal inforamtrion is provided in this file            
